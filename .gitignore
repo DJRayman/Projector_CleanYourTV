@@ -1,0 +1,9 @@
+# Состояние конкретного устройства: серийный номер, android_id и т.п.
+**/backup/
+**/shots/
+*.log
+# Сборка
+.gradle/
+**/app/build/
+local.properties
+*.apk
